@@ -10,3 +10,8 @@ Techniques learned: HTML5, CSS 3, jQuery and Responsive design.
 Goals: : The five golden rules are: responsive design, media queries, break points, animation and forms.
 Features: Mobility, boob icons, movement, and passes.
 Future iterations: Fewer images, less size of files, renaming the master branch to main, etc., changing jQuery to JavaScript, and center the icons in the Features section.
+
+Live Link:
+``````````````
+https://omnifood-dipeshh.netlify.app/
+````````````````````````````
